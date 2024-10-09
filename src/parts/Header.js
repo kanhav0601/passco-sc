@@ -56,7 +56,7 @@ export default function Header() {
             type="link"
             href="/project"
           >
-            Project
+            Clients
           </Button>
         </li>
         <li className="mx-auto my-9 bg-white">
@@ -65,7 +65,7 @@ export default function Header() {
             type="link"
             href="/discuss-project"
           >
-            Discuss Project
+            Discussion Forum
           </Button>
         </li>
       </ul>
@@ -105,7 +105,7 @@ export default function Header() {
                 type="link"
                 href="/project"
               >
-                Project
+                Clients
               </Button>
             </li>
             <li className="mx-auto my-9 bg-white">
@@ -114,7 +114,7 @@ export default function Header() {
                 type="link"
                 href="/discuss-project"
               >
-                Discuss Project
+                Discussion Forum
               </Button>
             </li>
           </ul>
