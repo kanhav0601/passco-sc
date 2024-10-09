@@ -29,7 +29,13 @@ export default function Footer() {
               passco.mail@gmail.com
             </p>
             <p className="text-lg text-gray-400 font-light">
-              205 Rohit House, Tolstoy Rd, Barakhamba, New Delhi, Delhi 110001, India
+             HO:  205 Rohit House, Tolstoy Rd, Barakhamba, New Delhi, Delhi 110001, India
+               
+            </p>
+                <p className="text-lg text-gray-400 font-light">
+             BO: 115A, Shipra Suncity,
+Indirapuram, Ghaziabad, UP
+201014
             </p>
           </div>
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
