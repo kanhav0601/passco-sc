@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Made with &#x2764; by Shreyans Jain
+            Created by Shreyans Jain
           </p>
         </div>
       </div>
