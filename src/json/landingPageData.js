@@ -147,22 +147,22 @@ export const Advantages = [
 export const Testimonials = [
   {
     id: 1,
-    name: 'Sanjay Kandpal',
-    company: 'Target Operations Pvt Ltd',
+    name: 'demo1',
+    company: 'c1',
     testimoni: 'Thanks for Passco, you guys are the best! Keep up the great work!',
     imageUrl: Kruger,
   },
   {
     id: 2,
-    name: 'Keerthanaa Jayaraman',
-    company: 'Carpediam',
+    name: 'demo2',
+    company: 'c2',
     testimoni: 'I just wanted to let you know that it’s been great working with Passco.',
     imageUrl: Sasha,
   },
   {
     id: 3,
-    name: 'Nikhil Sinha',
-    company: 'Accenture',
+    name: 'demo3',
+    company: 'c3',
     testimoni: 'Passco is so great. Thank you so much for a job well done.',
     imageUrl: Reiner,
   },
