@@ -1,0 +1,38 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+/build
+
+# Production environment variables
+.env.production
+.env.*.local
+
+# Local development environment variables
+.env.local
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+*.sublime-project
+*.sublime-workspace
+
+# IDE specific files
+/.idea
+/.vscode
+
+# Others
+/.cache
+/.eslintcache
