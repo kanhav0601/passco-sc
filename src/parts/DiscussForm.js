@@ -39,7 +39,7 @@ export const DiscussForm = (actions) => {
       && projectIdea !== ''
     ) {
       emailjs.send(
-        'service_82wgsoi',
+        'service_ikku95r',
         'template_quwk307',
         templateParams,
         'P1mtNO9BiZcTImrKm',
